@@ -12,6 +12,9 @@ wikitable.to_csv(tables, 'Path/to/root/')
 
 ```
 
+## Important
+Wikipedia encodes all of their pages in UTF-8. If importing these CSVs into excel, make sure you select UTF-8 and not Windows-1252
+
 ## Authors
 
 **Jack Henry**  - [jackhenry](https://github.com/jackhenry)
