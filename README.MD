@@ -12,12 +12,6 @@ wikitable.to_csv(tables, 'Path/to/root/')
 
 ```
 
-### Installing
-
-```
-pip install wikitable
-```
-
 ## Authors
 
 **Jack Henry**  - [jackhenry](https://github.com/jackhenry)
