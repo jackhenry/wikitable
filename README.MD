@@ -9,8 +9,9 @@ from wikitable import wikitable
 raw_html = wikitable.get_html('https://en.wikipedia.org/wiki/List_of_skeletal_muscles_of_the_human_body')
 tables = wikitable.get_tables(raw_html)
 wikitable.to_csv(tables, 'examples/')
-
 ```
+
+[The example CSVs](example/)
 
 ## Important
 Wikipedia encodes all of their pages in UTF-8. If importing these CSVs into excel, make sure you select UTF-8 and not Windows-1252
