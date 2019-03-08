@@ -1,6 +1,6 @@
 # wikitable
 
-A simple python package for retrieving cleaned tables from wikipedia articles
+A simple python scirpt for retrieving tabular data from wikipedia articles
 
 ## Getting Started
 
